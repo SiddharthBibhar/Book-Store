@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+.error
+{
+    color: red;
+    text-align: center;
+}
+.success
+{
+    color: green;
+    text-align: center;
+}
+.shw
+{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.side
+{
+    background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+}
+#quantity
+{
+    border: 1px solid grey;
+    text-align: center;
+    outline: none;
+    width: 50px;
+}
